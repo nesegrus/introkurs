@@ -1,0 +1,133 @@
+DESCRIPTION;TIMESERIE
+SE1 Spotpris;178395
+SE2 Spotpris;178418
+SE4 Spotpris;178464
+Skellefte_KB_Skellefteå;98280	
+Skellefte_KB_Vattenfall;98281
+Skellefte_KB_SKV;98286
+Ume_KB_Sydkraft;120178
+Ume_KB_Vattenfall;120185
+Åsele_KB_Vattenfall;98293
+Åsele_KB_Sydkraft;98292
+Fjellsjø_KB_Sydkraft;120176
+Fjellsjø_KB_Vattenfall;120183
+Ljungan_KB_Sydkraft;120177
+Ljungan_KB_Fortum;120180
+Indal_KB_Fortum;120179
+Indal_KB_Vattenfall;120184
+Indal_KB_Jämtkraft;120181
+Indal_KB_Skellefteå;120182
+Fax_KB_Holmen;162485
+Fax_KB_Sydkraft;175333
+Ume_uttak_Holmen;120192
+FCR-D SALG D-1 SE1 EURO;308959
+FCR-D SALG D-1 SE2 EURO;308972
+FCR-D SALG D-1 SE4 EURO;335341
+FCR-D SALG D-2 SE1 EURO;308958
+FCR-D SALG D-2 SE2 EURO;308973
+FCR-D SALG D-2 SE4 EURO;335340
+FCR-D NED SALG D-1 SE1 EURO;354106
+FCR-D NED SALG D-1 SE2 EURO;354100
+FCR-D NED SALG D-1 SE4 EURO;354094
+FCR-D NED SALG D-2 SE1 EURO;354109
+FCR-D NED SALG D-2 SE2 EURO;354103
+FCR-D NED SALG D-2 SE4 EURO;354097
+FCR-N SALG D-1 SE1 EURO;308961
+FCR-N SALG D-1 SE2 EURO;308970
+FCR-N SALG D-1 SE4 EURO;335329
+FCR-N SALG D-2 SE1 EURO;308960
+FCR-N SALG D-2 SE2 EURO;308971
+FCR-N SALG D-2 SE4 EURO;335328
+FCR-D TILBAKEKJØP D-1 SE1 EURO;309030
+FCR-D TILBAKEKJØP D-1 SE2 EURO;309017
+FCR-D TILBAKEKJØP D-1 SE4 EURO;335339
+FCR-D TILBAKEKJØP D-2 SE1 EURO;309031
+FCR-D TILBAKEKJØP D-2 SE2 EURO;309016
+FCR-D TILBAKEKJØP D-2 SE4 EURO;335338
+FCR-D NED TILBAKEKJØP D-1 SE1 EURO;354088
+FCR-D NED TILBAKEKJØP D-1 SE2 EURO;354082
+FCR-D NED TILBAKEKJØP D-1 SE4 EURO;354076
+FCR-D NED TILBAKEKJØP D-2 SE1 EURO;354091
+FCR-D NED TILBAKEKJØP D-2 SE2 EURO;354085
+FCR-D NED TILBAKEKJØP D-2 SE4 EURO;354079
+FCR-N TILBAKEKJØP D-1 SE1 EURO;309028
+FCR-N TILBAKEKJØP D-1 SE2 EURO;309019
+FCR-N TILBAKEKJØP D-1 SE4 EURO;335327
+FCR-N TILBAKEKJØP D-2 SE1 EURO;309029
+FCR-N TILBAKEKJØP D-2 SE2 EURO;309018
+FCR-N TILBAKEKJØP D-2 SE4 EURO;335326
+Qj Selfors;383163
+Önskemål Selsfors;383164
+Ref Selsfors;383165
+Qj Bålforsen;383166
+Önskemål Abelvattnet;383167
+Önskemål Gardiken;383168
+Önskemål Juktan;383169
+Önskemål Bålforsen;383170
+Ref Abelvattnet;383171
+Ref Gardiken;383172
+Ref Juktan;383173
+Ref Bålforsen;383174
+Qj Bergvattnet;383175
+Qj Dabbsjö;383176
+Qj Flåsjön;383177
+Qj Tåsjö;383178
+Önskemål Bergvattnet;383179
+Önskemål Dabbsjö;383180
+Önskemål Flåsjön;383181
+Önskemål Tåsjö;383182
+Ref Bergvattnet;383183
+Ref Dabbsjö;383184
+Ref Flåsjön;383185
+Ref Tåsjö;383186
+Qj Ransaren;383187
+Qj Kultsjön;383188
+Qj Malgomaj;383189
+Qj Vojmsjön;383190
+Önskemål Ransaren;383191
+Önskemål Kultsjön;383192
+Önskemål Malgomaj;383193
+Önskemål Vojmsjön;383194
+Ref Ransaren;383195
+Ref Kultsjön;383196
+Ref Malgomaj;383197
+Ref Vojmsjön;383198
+Qj Blåsjön;383199
+Qj Jormsjön;383200
+Qj Limingen;383201
+Qj Kvarnbergsvattnet;383202
+Önskemål Blåsjön;383203
+Önskemål Jormsjön;383204
+Önskemål Limingen;383205
+Önskemål Kvarnbergsvattnet;383206
+Ref Blåsjön;383207
+Ref Jormsjön;383208
+Ref Limingen;383209
+Ref Kvarnbergsvattnet;383210
+Qj Torrön;383211
+Qj Juveln;383212
+Qj Anjan;383213
+Qj Järpströmmen;383214
+Qj Krångede;383215
+Önskemål Torrön;383216
+Önskemål Juveln;383217
+Önskemål Anjan;383218
+Önskemål Järpströmmen;383219
+Önskemål Krångede;383220
+Ref Torrön;383221
+Ref Juveln;383222
+Ref Anjan;383223
+Ref Järpströmmen;383224
+Ref Krångede;383225
+Qj Flåsjön;383226
+Qj Holmsjön;383227
+Qj Järnvägsforsen;383228
+Önskemål Flåsjön;383229
+Önskemål Holmsjön;383230
+Önskemål Järnvägsforsen;383231
+Ref Flåsjön;383232
+Ref Holmsjön;383233
+Ref Järnvägsforsen;383234
+Prisprognose-SE1;383363
+Prisprognose-SE2;383364
+Prisprognose-SE4;383366

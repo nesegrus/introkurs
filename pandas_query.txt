@@ -1,0 +1,4 @@
+Pandas query 
+
+q = "AccidentState == 'AZ' & Coverage == 'Liability'"
+df = ClaimsData.query(q)[["PolicyNumber","Coverage"]]

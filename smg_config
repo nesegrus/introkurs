@@ -1,0 +1,131 @@
+﻿DESCRIPTION;TIMESERIE
+Kvistforsen plan;/CPS.K_KFN_STN.MW
+Bjurfors Övre plan;/CPS.Bjurfors_O.MW
+Bjurfors Nedre plan;/CPS.Bjurfors_N.MW
+Harrsele plan;/CPS.Harrsele.MW
+Malgomaj plan;/CPS.MAL.MW
+Volgsjöfors plan;/CPS.VOL.MW
+Bergvattnet plan;/CPS.Bergvattnet.MW
+Dabbsjö plan;/CPS.Dabbsjö.MW
+Korsselbränna plan;/CPS.Korsselbränna.MW
+Tåsjö plan;/CPS.Tåsjö.MW
+Klingerforsen plan;/CPS.Klingerforsen.MW
+Hoting plan;/CPS.Hoting.MW
+Junsterforsen plan;/CPS.Junsterforsen.MW
+Gäddede plan;/CPS.Gäddede.MW
+Bågede plan;/CPS.Bågede.MW
+Oldån plan;/CPS.Oldå.MW
+Långså plan;/CPS.Långså.MW
+Hammarforsen plan;/CPS.Hammarforsen.MW
+Järnvegsforsen plan;/CPS.Järnvägsforsen.MW
+Nederede plan;/CPS.Nederede.MW
+Skallböle plan;/CPS.Skallböle.MW
+Matfors plan;/CPS.Matfors.MW
+Viforsen plan;/CPS.Viforsen.MW
+Stennäs plan;/CPS.K_STS_STN.MW
+Gammelby plan;/K_GBN_STN_PTOT_PLAN.vs
+Björna plan;/K_BJA_STN_PTOT_PLAN.vs
+Gideå plan;/CPS.K_GDA_STN.MW
+GideBöle plan;/CPS.K_GBE_STN.MW
+Gideåbacka plan;/CPS.K_GBA_STN.MW
+Anundsjö plan;/CPS.K_ANU_STN.MW
+Sidensjö plan;/CPS.K_SID_STN.MW
+Drömme plan;/CPS.K_DME_STN.MW
+Brynge plan;/CPS.K_BYE_STN.MW
+Nyfors plan;/CPS.K_NFS_STN.MW
+Fors plan;/CPS.K_FRS_STN.MW
+Bro plan;/CPS.Bro.MW
+Åby plan;/CPS.Åby.MW
+Skeens plan;/CPS.Skeen.MW
+Kvarnaholms plan;/CPS.Kvarnaholm.MW
+Traryds plan;/CPS.Traryd.MW
+Timsfors plan;/CPS.Timsfors.MW
+Ängaback plan;/CPS.Ängabäck.MW
+Majenfors plan;/CPS.Majenfors.MW
+Bassalt plan;/CPS.Bassalt.MW
+Knareds övre plan;/CPS.Knäred_Ö.MW
+Knareds nedre plan;/CPS.Knäred_N.MW
+Skogaby plan;/CPS.Skogaby.MW
+Karsefors plan;/CPS.Karsefors.MW
+Laholm plan;/CPS.Laholm.MW
+Nissan plan;/Niss-Nissan.....-GS-T8300A5P-0106SV.....
+Prisprognose-SE1;/Prisprognose-SE1
+Prisprognose-SE2;/Prisprognose-SE2
+Prisprognose-SE4;/Prisprognose-SE4
+Prisprognose-NO1;/Prisprognose-NO1
+Prisprognose-NO2;/Prisprognose-NO2
+Prisprognose-NO3;/Prisprognose-NO3
+Prisprognose-NO4;/Prisprognose-NO4
+Prisprognose-NO5;/Prisprognose-NO5
+Qj Selfors;/Skel-Qj............-T1001A3P-0108SV..SVF
+Önskemål Selsfors;/Skel-Öns.tap.......-T1001A3P-0108SV..SVF
+Ref Selsfors;/Skel-Ref.tap.......-T1001A3P-0108SV..SVF
+Qj Bålforsen;/Umeä-Qj-Bålforsen..-T1001A3P-0108SV..VRF
+Önskemål Abelvattnet;/Umeä-Öns.tap.Abelva-T1001A3P-0108SV..VRF
+Önskemål Gardiken;/Umeä-Öns.tap.Gardik-T1001A3P-0108SV..VRF
+Önskemål Juktan;/Umeä-Öns.tap.Juktan-T1001A3P-0108SV..VRF
+Önskemål Bålforsen;/Umeä-Öns.tap.Bålfor-T1001A3P-0108SV..VRF
+Ref Abelvattnet;/Umeä-Ref.tap.Abelva-T1001A3P-0108SV..VRF
+Ref Gardiken;/Umeä-Ref.tap.Gardik-T1001A3P-0108SV..VRF
+Ref Juktan;/Umeä-Ref.tap.Juktan-T1001A3P-0108SV..VRF
+Ref Bålforsen;/Umeä-Ref.tap.Bålfor-T1001A3P-0108SV..VRF
+Qj Bergvattnet;/Fjäl-Qj-Bergvattnet-T1001A3P-0108SV..VRF
+Qj Dabbsjö;/Fjäl-Qj-Dabbsjö....-T1001A3P-0108SV..VRF
+Qj Flåsjön;/Fjäl-Qj-Flåsjön....-T1001A3P-0108SV..VRF
+Qj Tåsjö;/Fjäl-Qj-Tåsjö......-T1001A3P-0108SV..VRF
+Önskemål Bergvattnet;/Fjäl-Öns.tap.Bergva-T1001A3P-0108SV..VRF
+Önskemål Dabbsjö;/Fjäl-Öns.tap.Dabbsj-T1001A3P-0108SV..VRF
+Önskemål Flåsjön;/Fjäl-Öns.tap.Flåsjö-T1001A3P-0108SV..VRF
+Önskemål Tåsjö;/Fjäl-Öns.tap.Tåsjö.-T1001A3P-0108SV..VRF
+Ref Bergvattnet;/Fjäl-Ref.tap.Bergva-T1001A3P-0108SV..VRF
+Ref Dabbsjö;/Fjäl-Ref.tap.Dabbsj-T1001A3P-0108SV..VRF
+Ref Flåsjön;/Fjäl-Ref.tap.Flåsjö-T1001A3P-0108SV..VRF
+Ref Tåsjö;/Fjäl-Ref.tap.Tåsjö.-T1001A3P-0108SV..VRF
+Qj Ransaren;/Åsel-Qj-Ransaren...-T1001A3P-0108SV..VRF
+Qj Kultsjön;/Åsel-Qj-Kultsjön...-T1001A3P-0108SV..VRF
+Qj Malgomaj;/Åsel-Qj-Malgomaj...-T1001A3P-0108SV..VRF
+Qj Vojmsjön;/Åsel-Qj-Vojmsjön...-T1001A3P-0108SV..VRF
+Önskemål Ransaren;/Åsel-Öns.tap.Ransar-T1001A3P-0108SV..VRF
+Önskemål Kultsjön;/Åsel-Öns.tap.Kultsj-T1001A3P-0108SV..VRF
+Önskemål Malgomaj;/Åsel-Öns.tap.Malgom-T1001A3P-0108SV..VRF
+Önskemål Vojmsjön;/Åsel-Öns.tap.Vojmsj-T1001A3P-0108SV..VRF
+Ref Ransaren;/Åsel-Ref.tap.Ransar-T1001A3P-0108SV..VRF
+Ref Kultsjön;/Åsel-Ref.tap.Kultsj-T1001A3P-0108SV..VRF
+Ref Malgomaj;/Åsel-Ref.tap.Malgom-T1001A3P-0108SV..VRF
+Ref Vojmsjön;/Åsel-Ref.tap.Vojmsj-T1001A3P-0108SV..VRF
+Qj Blåsjön;/Faxä-Qj-Blåsjön....-T1001A3P-0108SV..VRF
+Qj Jormsjön;/Faxä-Qj-Jormsjön...-T1001A3P-0108SV..VRF
+Qj Limingen;/Faxä-Qj-Limingen...-T1001A3P-0108SV..VRF
+Qj Kvarnbergsvattnet;/Faxä-Qj-Kvarnbergs.-T1001A3P-0108SV..VRF
+Önskemål Blåsjön;/Faxä-Öns.tap.Blåsjö-T1001A3P-0108SV..VRF
+Önskemål Jormsjön;/Faxä-Öns.tap.Jormsj-T1001A3P-0108SV..VRF
+Önskemål Limingen;/Faxä-Öns.tap.Liming-T1001A3P-0108SV..VRF
+Önskemål Kvarnbergsvattnet;/Faxä-Öns.tap.Kvarnb-T1001A3P-0108SV..VRF
+Ref Blåsjön;/Faxä-Ref.tap.Blåsjö-T1001A3P-0108SV..VRF
+Ref Jormsjön;/Faxä-Ref.tap.Jormsj-T1001A3P-0108SV..VRF
+Ref Limingen;/Faxä-Ref.tap.Liming-T1001A3P-0108SV..VRF
+Ref Kvarnbergsvattnet;/Faxä-Ref.tap.Kvarnb-T1001A3P-0108SV..VRF
+Qj Torrön;/Inda-Qj-Torrön.....-T1001A3P-0108SV..VRF
+Qj Juveln;/Inda-Qj-Juveln.....-T1001A3P-0108SV..VRF
+Qj Anjan;/Inda-Qj-Anjan......-T1001A3P-0108SV..VRF
+Qj Järpströmmen;/Inda-Qj-Järpströmme-T1001A3P-0108SV..VRF
+Qj Krångede;/Inda-Qj-Krångede...-T1001A3P-0108SV..VRF
+Önskemål Torrön;/Inda-Öns.tap.Torrön-T1001A3P-0108SV..VRF
+Önskemål Juveln;/Inda-Öns.tap.Juveln-T1001A3P-0108SV..VRF
+Önskemål Anjan;/Inda-Öns.tap.Anjan.-T1001A3P-0108SV..VRF
+Önskemål Järpströmmen;/Inda-Öns.tap.Järpst-T1001A3P-0108SV..VRF
+Önskemål Krångede;/Inda-Öns.tap.Krånge-T1001A3P-0108SV..VRF
+Ref Torrön;/Inda-Ref.tap.Torrön-T1001A3P-0108SV..VRF
+Ref Juveln;/Inda-Ref.tap.Juveln-T1001A3P-0108SV..VRF
+Ref Anjan;/Inda-Ref.tap.Anjan.-T1001A3P-0108SV..VRF
+Ref Järpströmmen;/Inda-Ref.tap.Järpst-T1001A3P-0108SV..VRF
+Ref Krångede;/Inda-Ref.tap.Krånge-T1001A3P-0108SV..VRF
+Qj Flåsjön;/Ljun-Qj-Flåsjön....-T1001A3P-0108SV..VRF
+Qj Holmsjön;/Ljun-Qj-Holmsjön...-T1001A3P-0108SV..VRF
+Qj Järnvägsforsen;/Ljun-Qj-Järnvägsfor-T1001A3P-0108SV..VRF
+Önskemål Flåsjön;/Ljun-Öns.tap.Flåsjö-T1001A3P-0108SV..VRF
+Önskemål Holmsjön;/Ljun-Öns.tap.Holmsj-T1001A3P-0108SV..VRF
+Önskemål Järnvägsforsen;/Ljun-Öns.tap.Järnvä-T1001A3P-0108SV..VRF
+Ref Flåsjön;/Ljun-Ref.tap.Flåsjö-T1001A3P-0108SV..VRF
+Ref Holmsjön;/Ljun-Ref.tap.Holmsj-T1001A3P-0108SV..VRF
+Ref Järnvägsforsen;/Ljun-Ref.tap.Järnvä-T1001A3P-0108SV..VRF
